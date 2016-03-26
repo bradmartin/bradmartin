@@ -1,0 +1,26 @@
+{
+	"name": "bradmartin",
+	"version": "1.0.0",
+	"description": "My repo, hands off.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bradmartin/bradmartin.git"
+	},
+	"keywords": [
+    "bradmartin"
+	],
+	"author": {
+		"name": "Brad Martin",
+		"email": "bradwaynemartin@gmail.com",
+        "url": "https://github.com/bradmartin"
+	},
+	"bugs": {
+		"url": "https://github.com/bradmartin/bradmartin/issues"
+	},
+	"license": {
+		"type": "MIT",
+		"url": "https://github.com/bradmartin/bradmartin/blob/master/LICENSE"
+	},
+	"homepage": "https://github.com/bradmartin/bradmartin",
+	"readmeFilename": "README.md"
+}
